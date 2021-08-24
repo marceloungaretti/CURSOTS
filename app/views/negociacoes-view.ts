@@ -14,7 +14,7 @@ export class NegociacoesView {
                 <tr>
                     <th>DATA</th>
                     <th>QUANTIDADE</th>
-                    <th>VALOR</th>
+                    <th>Valor</th>
                 </tr>
             </thead>
             <tbody>
